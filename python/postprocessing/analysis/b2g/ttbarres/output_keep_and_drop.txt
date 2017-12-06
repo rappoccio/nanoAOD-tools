@@ -1,0 +1,9 @@
+# this is a comment
+keep * # start with all
+drop Jet_*
+drop GenJet_*
+drop SubJet_*
+drop GenJetAK8_*
+drop SubGenJetAK8_*
+drop Flag_*
+drop HLT_*

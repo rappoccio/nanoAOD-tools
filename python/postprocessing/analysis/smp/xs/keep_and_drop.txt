@@ -1,0 +1,13 @@
+# this is a comment
+keep * # start with all
+drop CaloMET_*
+drop TkMET_*
+drop Electron_*
+drop Muon_*
+drop Photon_*
+drop Tau_*
+drop IsoTrack_*
+drop SoftActivityJet*
+drop TrigObj_*
+drop SV_*
+drop GenPart_*
